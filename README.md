@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @eviraznva
+- 👀 I’m interested in programming 
+- 🌱 I’m currently learning c#, Html, Css and javascript
